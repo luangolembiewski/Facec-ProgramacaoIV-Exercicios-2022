@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32126.315
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Exercicio", "01-Exercicio", "{2CC58B13-5C14-4F7E-B5D1-94A239C4C91A}"
 EndProject
@@ -13,15 +13,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.Dois", "Exercicio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Exercicio", "03-Exercicio", "{0B924DC9-6F79-4886-8400-1FE35F1576FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.Tres", "Exercicio.Tres\Exercicio.Tres.csproj", "{5533C437-8A5E-4134-A472-4090A107C56A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.Tres", "Exercicio.Tres\Exercicio.Tres.csproj", "{5533C437-8A5E-4134-A472-4090A107C56A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Exercicio", "04-Exercicio", "{28A52C64-4349-4A23-8586-EB89C2A3F331}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.Quatro", "Exercicio.Quatro\Exercicio.Quatro.csproj", "{792ED99B-4675-4B83-8469-9CDDF3C1A49B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.Quatro", "Exercicio.Quatro\Exercicio.Quatro.csproj", "{792ED99B-4675-4B83-8469-9CDDF3C1A49B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Exercicio (Calculadora)", "05-Exercicio (Calculadora)", "{8F678360-363A-4059-90FB-1DE1F7CB225D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.Cinco", "Exercicio.Cinco\Exercicio.Cinco.csproj", "{B858BBDB-29AF-4371-B010-F4891C48A650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.Cinco", "Exercicio.Cinco\Exercicio.Cinco.csproj", "{B858BBDB-29AF-4371-B010-F4891C48A650}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Exercicio", "06-Exercicio", "{47D568EA-7FB1-4DE9-82FD-AAD5335C2D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.Seis", "Exercicio.Seis\Exercicio.Seis.csproj", "{EFAFAA49-1DD3-4745-81B0-610BB7F303B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,10 @@ Global
 		{B858BBDB-29AF-4371-B010-F4891C48A650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B858BBDB-29AF-4371-B010-F4891C48A650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B858BBDB-29AF-4371-B010-F4891C48A650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAFAA49-1DD3-4745-81B0-610BB7F303B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAFAA49-1DD3-4745-81B0-610BB7F303B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAFAA49-1DD3-4745-81B0-610BB7F303B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAFAA49-1DD3-4745-81B0-610BB7F303B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +67,7 @@ Global
 		{5533C437-8A5E-4134-A472-4090A107C56A} = {0B924DC9-6F79-4886-8400-1FE35F1576FF}
 		{792ED99B-4675-4B83-8469-9CDDF3C1A49B} = {28A52C64-4349-4A23-8586-EB89C2A3F331}
 		{B858BBDB-29AF-4371-B010-F4891C48A650} = {8F678360-363A-4059-90FB-1DE1F7CB225D}
+		{EFAFAA49-1DD3-4745-81B0-610BB7F303B5} = {47D568EA-7FB1-4DE9-82FD-AAD5335C2D15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C4E9C72-E833-485A-8524-DE3EED424D0B}
