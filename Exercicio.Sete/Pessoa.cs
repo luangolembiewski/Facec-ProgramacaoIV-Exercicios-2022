@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Exercicio.Sete
+namespace Exemplo.Um
 {
 	class Pessoa
 	{

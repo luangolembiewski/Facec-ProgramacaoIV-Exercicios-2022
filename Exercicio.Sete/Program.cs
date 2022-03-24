@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicio.Sete
+namespace Exemplo.Um
 {
     class Program
     {
