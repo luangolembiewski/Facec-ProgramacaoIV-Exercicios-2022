@@ -11,7 +11,7 @@ namespace Exercicio.Um
             decimal realDec = 0.0m;
             decimal precoReal = 0.1932m;
 
-            decimal.TryParse (real, out realDec);
+            decimal.TryParse(real, out realDec);
             decimal resultadoConvertido = realDec * precoReal;
             Console.WriteLine($"Valor em $: {resultadoConvertido}");
             Console.ReadLine();

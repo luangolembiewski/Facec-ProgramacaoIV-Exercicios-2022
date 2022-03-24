@@ -7,10 +7,11 @@ namespace Exemplo.Um
 	class Pessoa
 	{
 		public string Nome { get; private set; }
-		public Pessoa (string nome){
+		public Pessoa(string nome)
+		{
 			Nome = nome ??
 				throw new ArgumentException(nameof(nome));
 		}
-			
+
 	}
 }
